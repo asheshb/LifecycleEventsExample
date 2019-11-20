@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lifecycle Events Example</string>
+    <string name="main_activity_title">Main Activity</string>
+    <string name="next_activity_title">Next Activity</string>
+    <string name="main_Fragment_title">Main Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_fragment_title">Next Fragment</string>
+</resources>
